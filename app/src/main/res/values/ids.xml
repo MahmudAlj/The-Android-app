@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <item name="historyButton" type="id" />
-    <item name="amountEditText" type="id" />
-    <item name="addButton" type="id" />
-    <item name="amountListView" type="id" />
-</resources>

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aljma\\Documents\\GitHub\\The-Android-app\\passwordwriter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7F982A-92DB-4B46-89A8-146AFAE9BF49}|passwordwriter.vcxproj|C:\\Users\\aljma\\Documents\\GitHub\\The-Android-app\\passwordwriter\\passwordwriter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A7F982A-92DB-4B46-89A8-146AFAE9BF49}|passwordwriter.vcxproj|solutionrelative:passwordwriter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A7F982A-92DB-4B46-89A8-146AFAE9BF49}|passwordwriter.vcxproj|C:\\Users\\aljma\\Documents\\GitHub\\The-Android-app\\passwordwriter\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A7F982A-92DB-4B46-89A8-146AFAE9BF49}|passwordwriter.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\aljma\\Documents\\GitHub\\The-Android-app\\passwordwriter\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\aljma\\Documents\\GitHub\\The-Android-app\\passwordwriter\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-14T07:25:12.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "passwordwriter.cpp",
+              "DocumentMoniker": "C:\\Users\\aljma\\Documents\\GitHub\\The-Android-app\\passwordwriter\\passwordwriter.cpp",
+              "RelativeDocumentMoniker": "passwordwriter.cpp",
+              "ToolTip": "C:\\Users\\aljma\\Documents\\GitHub\\The-Android-app\\passwordwriter\\passwordwriter.cpp*",
+              "RelativeToolTip": "passwordwriter.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-14T07:24:04.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
